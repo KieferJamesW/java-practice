@@ -49,3 +49,8 @@ function reverseArray (input) {
 }
 console.log(reverseArray(numberArray))
 */
+
+/*let array = [4, 5, 2, 1, 3]
+
+console.log(array.sort())
+*/
